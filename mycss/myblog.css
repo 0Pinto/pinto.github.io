@@ -1,0 +1,142 @@
+body{
+background-color: #f0f00f;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#mypage{
+border: 1px solid #000;
+width: 1400px;
+
+}
+
+#banner{
+height: 90px;
+border: 1px solid #000;
+font-size: 400%;
+background-color: #CBC3E3;
+}
+
+#banner img{
+border-radius: 50%;
+}
+
+
+#topnav{
+background-color: #eaccdc;
+}
+
+#topnav{
+height: 45px;
+border: 1px solid #000;
+}
+
+#topnav ul li{
+text-decoration: none;
+display: inline;
+}
+
+#topnav a:link{
+text-decoration: none;
+}
+
+#topnav a:visited{
+color: #FF00F0;
+}
+
+#topnav a:hover{
+background-color: #FFF;
+}
+
+.gi-2x{font-size: 28px; padding: 3px;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+
+#contentarea{
+height: auto;
+background-color: #CBC3E3;
+}
+
+.hm {
+background-color: red;
+}
+
+.company_profile{
+    width: 100%;
+    height: 250px;
+    background-color: #c8def2;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.current_trainees{
+    width: 100%;
+    height: 250px;
+    background-color: #c8f2d1;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.current_trainees img{
+    border-radius: 50%;
+}
+
+.current_trainees ul li{
+    display: inline;
+    margin-right: 85px;
+}
+
+.current_trainees h1{
+    margin-bottom: 35px;
+    padding-top: 35px;
+}
+
+.job_spec{
+    width: 100%;
+    height: 250px;
+    background-color: #f2d9c8;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.application_form{
+    width: 100%;
+    height: 250px;
+    background-color: #f2c8e5;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.our_courses{
+    width: 100%;
+    height: auto;
+    background-color: #f2c8c8;
+    border-radius: 8px;
+    margin: 10px;
+}
+.our_courses h1{
+    margin-bottom: 35px;
+    padding-top: 35px;
+
+}
+
+.our_courses dd dl{
+    display: inline;
+    margin-right: 150px;
+}
+
+.our_courses dl{
+    width: 140px;
+    height: 150px;
+}
+
+/* .jmac {
+    border: 1px solid #000;
+    width:auto;
+    height: auto;
+} */
+
+/* .hc h1{
+    border: 1px solid #000000;
+} */
